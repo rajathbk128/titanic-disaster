@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 import sklearn
 #import MySQLdb
-import pymongo
+#import pymongo
 #import mysql.connector
 #import mysql.connector as sql
 from sklearn.preprocessing import StandardScaler
